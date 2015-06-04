@@ -7,7 +7,7 @@ import (
 	"fmt"
 
 	"code.google.com/p/go-uuid/uuid"
-	"github.com/awslabs/aws-sdk-go/service/swf"
+	"github.com/aws/aws-sdk-go/service/swf"
 	"github.com/sclasen/swfsm/activity"
 	"github.com/sclasen/swfsm/fsm"
 )
